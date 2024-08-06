@@ -56,6 +56,8 @@ If moderation decisions are causing repeated problems, please request a review o
 
 If a review uncovers problems, it could result in new moderation guidelines being written or moderators being asked to change their behavior less formally. In more extreme cases, it could result in a specific moderator being asked not to moderate specific posters, leaving it to other moderators with less history who can be more credibly neutral. In the worst case, if moderators' decisions are really outside the best-effort practices described in this document, project maintainers can remove moderators.
 
+If you're under a persistent conflict of interest with one of the moderator, which might not be the blame of the moderator itself or anyone in fact, please acknowledge you can email moderation@bitcoincore.org to request such moderator to not intervene on your post and that another moderator or maintainer substitute to it in its actions. Moderator can also self-recuse from moderating a specific contributor for conflict of interest.
+
 ## Recommended actions
 
 If your post is removed because it is on the edge of technical and substantive discussion: Try not to take it personally. Re-post a version of your comment that makes the same point in a more technical and substantive way.
